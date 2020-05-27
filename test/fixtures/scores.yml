@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  time_complete: 1.5
+  words_correct: 1
+  words_incorrect: 1
+  user: one
+  game: one
+  characters_missed: 
+
+two:
+  time_complete: 1.5
+  words_correct: 1
+  words_incorrect: 1
+  user: two
+  game: two
+  characters_missed: 
